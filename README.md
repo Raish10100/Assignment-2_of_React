@@ -16,6 +16,8 @@ The Counter App is a simple application that allows users to increment and decre
 
 ### 1. Insta-UserPage App
 
+[live](https://authpage-insta.netlify.app/)
+
 ![Sign-Up Page](https://res.cloudinary.com/deodsnio3/image/upload/v1713861710/Sign%20Up%20Page.png "SignUp Page")
 *Figure: SignUp page of the Instagram User Page clone*
 
@@ -23,6 +25,8 @@ The Counter App is a simple application that allows users to increment and decre
 *Figure: SignIn page of the Instagram User Page clone*
 
 ### 2. Counter App
+
+[live](https://react-counter-r.netlify.app)
 
 ![Counter App](https://res.cloudinary.com/deodsnio3/image/upload/v1713869067/Counter_app.png "Counter App")
 *Figure: Counter App*
